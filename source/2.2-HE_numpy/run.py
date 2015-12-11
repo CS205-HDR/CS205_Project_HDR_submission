@@ -5,10 +5,7 @@ import numpy as np
 import pylab
 
 import scipy
-import PIL
-import PIL.Image as im
 from scipy import ndimage
-from PIL import ImageEnhance
 import random
 import os
 import matplotlib.pyplot as plt

@@ -4,7 +4,6 @@
 from __future__ import division
 import pyopencl as cl
 import numpy as np
-from PIL import Image
 import pylab
 import matplotlib.pyplot as plt
 import scipy
