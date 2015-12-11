@@ -44,6 +44,8 @@ In the **"source"** folder, all **.py** files except helper.py are runnable. To 
 
     2.1 through 2.10 folders contain executable run.py for testing different conditions.
 
+    There's one ipython notebook file if you like that style more.
+
     The plots may come out behind the terminal..
 
 5. Part 3: Convolution Mask
